@@ -1,4 +1,4 @@
-dailyprogrammer
+Daily Programmer
 ===============
 
-My solutions for daily programming problems posted on reddit.com/dailyprogrammer
+My solutions for daily programming problems posted on [/r/dailyprogrammer](www.reddit.com/r/dailyprogrammer)
